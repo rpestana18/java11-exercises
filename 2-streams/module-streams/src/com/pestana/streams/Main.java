@@ -1,4 +1,4 @@
-package com.pestana.streams.main;
+package com.pestana.streams;
 
 import com.pestana.streams.object.Person;
 
