@@ -14,7 +14,7 @@ public class Main {
                 new Person("Edna", 78));
 
 
-        //Caracteristics:
+        //characteristic:
         //1 - The streams API has three main operations: filter, Map and Reduce.
 
         //2 - we have two process types of Streams: stream and parallelStream.
