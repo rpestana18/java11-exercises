@@ -1,3 +1,5 @@
+package com.pestana.streams.main;
+
 import com.pestana.streams.object.Person;
 
 import java.util.*;
